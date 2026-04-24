@@ -7,7 +7,6 @@ import java.util.*;
 
 public class QuizLeaderboard {
 
-    // IMPORTANT: Replace this with your actual registration number
     private static final String REG_NO = "RA2311033010186";
     private static final String BASE_URL = "https://devapigw.vidalhealthtpa.com/srm-quiz-task";
 
